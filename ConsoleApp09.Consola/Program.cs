@@ -19,7 +19,7 @@
 
             distancia = CalcularDistancia(coordX1, coordY1, coordX2, coordY2);
 
-            Console.WriteLine($"La distancia entre mnn los puntos ({coordX1},{coordY1}) y ({coordX2}, {coordY2}) es {distancia}");
+            Console.WriteLine($"La distancia entre los puntos ({coordX1},{coordY1}) y ({coordX2}, {coordY2}) es {distancia}");
 
 
         }
